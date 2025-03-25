@@ -3,4 +3,4 @@
 * Pass 1 of Two pass assembler
 * Pass 2 of Two pass assembler
 
-This assembley handles the machine independent feature of symbol definition (`EQU` statements) 
+This assembler handles the machine independent feature of symbol definition (`EQU` statements) 
